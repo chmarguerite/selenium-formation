@@ -1,0 +1,8 @@
+{
+	"capabilities":[
+		{
+		"browserName": "firefox",
+		"maxInstances": 5
+		}
+	]
+}
